@@ -220,7 +220,8 @@ __marimo__/
 .streamlit/secrets.toml
 
 # notebooks
-.ipynb
+Difference-in-difference-minimumWage.ipynb
 # Text files
 requirements.txt
+njmin3.csv
 
