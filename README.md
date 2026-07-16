@@ -126,7 +126,7 @@ Econometrics-and-Research-Techniques/
 └── outputs/
 ```
 
-The Python script is designed to check for the dataset in either:
+The Python script has a flexible dataloading workflow, designed to check for the dataset in either:
 
 ```text
 ./njmin3.csv
